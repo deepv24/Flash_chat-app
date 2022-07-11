@@ -1,6 +1,5 @@
 # flash_chat
-
-A new Flutter project.
+An app for chat between peoples,just register yourself in app ,logged in as a user and Enjoy your chat
 
 # output
 
